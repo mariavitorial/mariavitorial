@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**mariavitorial/mariavitorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## bem vindas ao meu perfil
+estou estudando no alura
+estou me desenvolvendo 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
